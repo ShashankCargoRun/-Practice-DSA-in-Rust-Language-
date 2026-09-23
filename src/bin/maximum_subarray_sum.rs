@@ -7,7 +7,7 @@ Input:  nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
 Output: 6
 */
 
-// cargo run --bin
+// cargo run --bin maximum_subarray_sum
 
 
 fn main() {
