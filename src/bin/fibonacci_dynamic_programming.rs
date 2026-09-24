@@ -16,3 +16,5 @@
 // 2. Time Complexity: O(n)
 // 3. Space Complexity: O(1)
 //
+// Function:
+// fn fibonacci(n: usize) -> u64
