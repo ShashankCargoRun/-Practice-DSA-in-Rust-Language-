@@ -7,3 +7,7 @@
 // F(1) = 1
 // F(n) = F(n - 1) + F(n - 2)
 //
+// Example:
+// Input:  n = 7
+// Output: 13
+//
