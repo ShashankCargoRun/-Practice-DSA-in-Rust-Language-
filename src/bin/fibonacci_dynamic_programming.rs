@@ -11,3 +11,8 @@
 // Input:  n = 7
 // Output: 13
 //
+// Requirements:
+// 1. Use Dynamic Programming.
+// 2. Time Complexity: O(n)
+// 3. Space Complexity: O(1)
+//
