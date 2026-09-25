@@ -35,3 +35,8 @@ fn fibonacci(n: usize) -> u64 {
 
     curr
 }
+
+fn main() {
+    let n = 7;
+    println!("{}", fibonacci(n)); // 13
+}
