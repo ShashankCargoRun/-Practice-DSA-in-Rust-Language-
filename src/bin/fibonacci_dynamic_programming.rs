@@ -18,3 +18,20 @@
 //
 // Function:
 // fn fibonacci(n: usize) -> u64
+
+fn fibonacci(n: usize) -> u64 {
+    if n == 0 {
+        return 0;
+    }
+
+    let mut prev = 0u64;
+    let mut curr = 1u64;
+
+    for _ in 1..n {
+        let next = prev + curr;
+        prev = curr;
+        curr = next;
+    }
+
+    curr
+}
