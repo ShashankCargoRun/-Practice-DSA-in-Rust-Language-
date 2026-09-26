@@ -1,6 +1,6 @@
 // Basic DSA Question — Easy
 // Example: Input:  [4, 7, 2, 9, 1] || Output: 9
-
+// cargo
 
 fn main() {
     let array = [4, 7, 2, 9, 1];
