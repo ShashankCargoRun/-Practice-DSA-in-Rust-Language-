@@ -19,7 +19,7 @@
 // Function:
 // fn fibonacci(n: usize) -> u64
 
-// cargo run --bin 
+// cargo run --bin fibonacci_dynamic_programming
 
 fn fibonacci(n: usize) -> u64 {
     if n == 0 {
