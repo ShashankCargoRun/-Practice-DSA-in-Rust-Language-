@@ -19,6 +19,8 @@
 // Function:
 // fn fibonacci(n: usize) -> u64
 
+// cargo run --bin 
+
 fn fibonacci(n: usize) -> u64 {
     if n == 0 {
         return 0;
