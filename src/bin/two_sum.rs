@@ -8,7 +8,7 @@
 // Input: nums = [2, 7, 11, 15], target = 9
 // Output: [0, 1]
 
-// cargo run --bin 
+// cargo run --bin two_sum
 
 use std::collections::HashMap;
 
