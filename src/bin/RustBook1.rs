@@ -1,4 +1,7 @@
 // extern crate rand;
+
+// cargo run --bin 
+
 use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
