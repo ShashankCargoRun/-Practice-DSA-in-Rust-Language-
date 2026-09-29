@@ -1,6 +1,6 @@
 // extern crate rand;
 
-// cargo run --bin 
+// cargo run --bin RustBook1
 
 use std::io;
 use std::cmp::Ordering;
