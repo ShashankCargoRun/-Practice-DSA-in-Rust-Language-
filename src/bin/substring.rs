@@ -4,6 +4,8 @@
 // Input:  s = "abcabcbb"
 // Output: 3
 
+// cargo run --bin
+
 use std::collections::HashMap;
 
 fn longest_substring(s: String) -> usize {
