@@ -4,7 +4,7 @@
 // Input:  s = "abcabcbb"
 // Output: 3
 
-// cargo run --bin
+// cargo run --bin substring
 
 use std::collections::HashMap;
 
